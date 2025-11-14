@@ -2,7 +2,7 @@
 ##你可以尝试修改内部(Particle.hlsl)代码  使其支持内置管线
 ##因为(Particle.hlsl)引用了ShaderGraph库
 
-![Header](image/Clipboard - 2025-11-14 12.37.05.png)
+![Header](image/Test2.png)
 
 将[纯Shader 粒子系统.unitypackage]导入Unity，如果导入失败，请修改名称为英文
 
