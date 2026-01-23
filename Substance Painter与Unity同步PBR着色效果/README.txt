@@ -1,0 +1,4 @@
+LiMi PBR Lit.glsl 文件是Pt用的，直接拖到Pt的资源文件夹，然后在着色器设置中切换到这个着色器
+
+LiMiPBR_URP.shadersubgraph是Unity Shader Graph的子图，拖入unity后，再在新建的ShaderGraph拖入这个子图即可
+请注意需要URP管线，因为环境纹理的采样用到了URP的API
