@@ -1,0 +1,6 @@
+来自Unity China的HairFX:源码地址：https://github.com/Unity-China/cn.unity.hairfx.urp/tree/main
+
+
+在URP中你完全可以使用基于Unity China团队的制作毛发材质，他是与ShaderGraph集成的。
+我仅仅只是学习毛发材质而做的拆解 
+仅供学习参考
